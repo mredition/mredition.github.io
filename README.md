@@ -1,4 +1,10 @@
-# generate-sa-idnumbers
-Generate (fake) South African ID Numbers
+<center> <h1> Credit Card Generator</h1> </center>
 
-Use it [here](https://chris927.github.io/generate-sa-idnumbers/).
+|Luanch|
+|------|
+```sh
+./generator.sh  
+```
+
+
+i Hope Enjoy ;)
